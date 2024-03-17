@@ -40,7 +40,7 @@ Peptide sequences should be provided as input, separated by spaces or commas.
 
 Example:
 ```
-AGLU GMPG GLUA
+AMER LGD AR
 ```
 
 ## Output
