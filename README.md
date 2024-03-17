@@ -1,4 +1,4 @@
-# Umami_TD (Tetrapeptide Docking)
+# Umami_TD 
 
 Umami_TD is a software tool designed for predicting whether short peptides of 2-4 amino acids in length possess umami taste. The "TD" stands for tetrapeptide docking, indicating the underlying mechanism used for prediction. Umami_TD is capable of analyzing multiple peptide sequences simultaneously, providing users with quick and convenient predictions.
 
