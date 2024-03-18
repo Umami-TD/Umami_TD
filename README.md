@@ -53,6 +53,6 @@ If you use Umami_TD in your research work, please cite it.
 
 ## Contact
 
-For any inquiries or support, please contact [765133864@qq.com].
+For any inquiries or support, please contact [wyztaian@163.com].
 
 **Note:** Umami_TD is for research purposes only and should not be used as a substitute for professional taste analysis.
