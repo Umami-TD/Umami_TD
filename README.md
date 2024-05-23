@@ -49,7 +49,7 @@ Umami_TD will generate prediction results for each input peptide sequence, indic
 
 ## Citation
 
-If you use Umami_TD in your research work, please cite it.
+If you use Umami_TD in your research work, please cite it (https://doi.org/10.1021/acs.jafc.4c00187).
 
 ## Contact
 
